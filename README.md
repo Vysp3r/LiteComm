@@ -1,2 +1,2 @@
 # LiteComm
-A simple chat protocol made in C
+A simple communication protocol made in C
